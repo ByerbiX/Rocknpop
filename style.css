@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+}
+
+.art-menu {
+    max-width: 75%;
+    position: relative;
+    z-index: 5;
+}
+
+.vinyle-menu {
+    width: 127%;
+    top: -5px;
+    position: relative;
+    left: -105%;
+}
