@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+}
+
+.art-menu {
+    max-width: 107.5%;
+    position: relative;
+    z-index: 1;
+}
+
+.vinyle-menu {
+    width: 84%;
+     top: 2px; 
+    position: relative;
+    left: -35%;
+}
+.vinyle-menu:hover{
+    transition: transform 3s;
+    transform: translate(55%);
+}
