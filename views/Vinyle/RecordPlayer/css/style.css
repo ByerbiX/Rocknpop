@@ -25,6 +25,7 @@ body {
 	overflow-x: hidden;
 	color: #474283;
 	background: #45cb96;
+	margin-top: 10%;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
