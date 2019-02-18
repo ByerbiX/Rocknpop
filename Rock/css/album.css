@@ -1,0 +1,63 @@
+body{
+    background: linear-gradient(to bottom,  #660066 0%,#ffcc00 100%);
+}
+
+
+.font-semibold{
+	font-size: 3rem;
+}
+
+.header-album{
+    /* margin-top: -300px; */
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    border-bottom: #d218e2 1px solid;
+    align-items: center;
+}
+
+
+.header-album img {
+    width: 20%;
+}
+.groupe {
+    margin-top: -200px;
+    width: 30%;
+    text-align: center;
+}
+
+.titre{
+    display: flex;
+    width: 15%;
+    text-align: center;
+}
+
+.date {
+    margin-top: 200px;
+    width: 15%;
+    text-align: center;
+}
+
+
+
+#groupe{
+    align-self: flex-start;
+}
+
+#titre{
+    align-self: center;
+}
+
+#date{
+    align-self: flex-end;
+}
+
+
+.albums-module {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}

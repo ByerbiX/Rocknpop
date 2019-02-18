@@ -1,0 +1,38 @@
+
+
+.rocknpop{
+	font-size: 3rem;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.nav-categorie{
+    display: flex;
+    justify-content: space-around;
+}
+
+.categorie{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.vedette{
+	color: #ffffff;
+	font-size: 2rem;
+	text-align: center;
+}
+
+.accueil-module{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	width: 80%;	
+	margin: auto;
+	text-align: center;
+}
+
+.main-menu-album{
+	justify-content: space-between;
+	width: 80%;
+}
+

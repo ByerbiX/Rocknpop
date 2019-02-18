@@ -1,0 +1,19 @@
+/*Règle impactant toute l'application*/
+
+body {
+    background: linear-gradient(to bottom, #660066 0%, #ffcc00 100%);
+    background-attachment: fixed;
+}
+
+.dynamicLinks, .dynamicSongs {
+    cursor: pointer;
+}
+
+.d-100 {
+    display: block;
+    width: 100%;
+}
+
+.d-n {
+    display: none;
+}
